@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: bisque;
+}
+h2{
+    color: rgb(1, 7, 6);
+}
+h3{
+    color: rgba(240, 185, 104, 0.856);
+}
